@@ -116,3 +116,30 @@ span    {
     font-weight: 600;
     
 }
+
+
+
+/* pannel */
+
+.pannel {
+    background-color: #222f3d;
+    height: 40px;
+    display: flex;
+    align-items: center;
+
+}
+
+.pannel-options p   {
+    display: inline;
+    margin-left: 10px;
+}
+
+.pannel-options {
+    width: 70%;
+    font-size: 0.85rem;
+}
+
+.pannel-deals   {
+    font-size: 0.9rem;
+    font-weight: 7000;
+}
