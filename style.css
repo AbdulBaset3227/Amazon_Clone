@@ -252,9 +252,16 @@ ul a    {
 
 .foot-pannel-4  {
     background-color: #0f1111;
-    height: 100px;
+    height: 80px;
     color: #ffff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+.pages  {
+    padding-top: 25px;
+}
+
+.copyright  {
+    padding-top: 10px;
 }
